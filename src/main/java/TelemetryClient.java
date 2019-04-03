@@ -36,7 +36,7 @@
 #
 #       >           APP:  gRPC_TelemetryClient_Java
 #       >        AUTHOR:  Jag Channa
-#       >       COMPANY:  OpenEye Software Inc.
+#       >       COMPANY:  OpenEye Software
 #       >       VERSION:  0.1
 #       > REVISION DATE:  2019-04-02
 #
